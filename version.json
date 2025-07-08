@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "description": "RayzeCraft Modpack - Versão completa",
+  "releaseDate": "2025-07-08T21:30:00Z",
+  "minecraftVersion": "1.12.2",
+  "forgeVersion": "14.23.5.2860",
+  "requiredMods": [
+    "forge-1.12.2-14.23.5.2860-universal",
+    "actuallyadditions",
+    "appliedenergistics2",
+    "botania",
+    "enderio",
+    "immersiveengineering",
+    "jei",
+    "thermalexpansion"
+  ],
+  "files": [
+    {
+      "path": "rayzecraft-launcher-files.zip",
+      "url": "https://download61.mediafire.com/file/13k9em28bqvrx9e/rayzecraft-launcher-files.zip",
+      "hash": "B91BA108AD4EABEF3B7731B7760188E097B37A41C3694B090875614AFA6EC548",
+      "size": 300000000,
+      "isRequired": true,
+      "type": "modpack",
+      "description": "Modpack completo do RayzeCraft - Inclui bin, mods, config e scripts"
+    }
+  ]
+}
